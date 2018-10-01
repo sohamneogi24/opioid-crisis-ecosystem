@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/userinterface/chemistrole/ChemistWorkAreaJPanel.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/role/ChemistRole.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/role/AdminRole.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/workqueue/PharmacySupplyWorkRequest.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/organization/Organization.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/workqueue/ScheduleAppointmentWorkRequest.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/userinterface/receptionistrole/ScheduleAppointmentJPanel.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/role/DoctorRole.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/role/DEARole.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/patient/Patient.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/workqueue/WorkRequest.java</file>
+            <file>file:/C:/Repository/aed_fall_2016_opioidcrisis_shrikant_mudholkar_001284732/OpioidCrisisEcosystem/src/com/neu/business/role/RehabilitationManagerRole.java</file>
+        </group>
+    </open-files>
+</project-private>
